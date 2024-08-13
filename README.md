@@ -1,10 +1,10 @@
-<h1 align="center">Hi everyone 👋 I'm Thanh Huu </h1> 
+<div align="center">
+ 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+everyone+%F0%9F%91%8B+I'm+Thanh+Huu&fontSize=40)
+ 
+<img src="https://avatars.githubusercontent.com/u/97447370?v=4" alt="Avatar" />
 
-<div align="center" >
-
-<img src="https://avatars.githubusercontent.com/u/97447370?v=4"/>
 </div>
-
 
 
 **💬 THANH HUU** 
