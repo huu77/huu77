@@ -55,7 +55,6 @@
 </p>
  
 
-**![Certificate](https://img.icons8.com/doodle/48/000000/certificate.png)Certificate**
 ---
 <p align="center">
  <img src="Certificate.png"width="500"/>
