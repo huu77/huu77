@@ -54,12 +54,6 @@
      <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
 </p>
  
-
----
-<p align="center">
- <img src="Certificate.png"width="500"/>
- </p>
-
 **😄 HOBBIES**
 ---
  
